@@ -12,18 +12,17 @@ A high-quality **2D Space Shooter Game** built using Python and Pygame with smoo
 ## 🎮 Game Preview
 
 ### 🖼️ Gameplay Screenshot
-![Gameplay](<img width="1915" height="941" alt="Screenshot 2026-05-01 165848" src="https://github.com/user-attachments/assets/b2a56988-7be3-4ebe-9abf-76e1699cf0f4" />
-)
+<img width="1915" height="941" alt="Screenshot 2026-05-01 165848" src="https://github.com/user-attachments/assets/058abd5c-f275-4787-8604-b0d72efa6770" />
+
 
 ### 🌌 Background Scene
-![Space Background](<img width="1908" height="942" alt="Screenshot 2026-05-01 170144" src="https://github.com/user-attachments/assets/695aa367-7838-408d-9748-82371d3957de" />
-)
+<img width="1908" height="942" alt="Screenshot 2026-05-01 170144" src="https://github.com/user-attachments/assets/033c31e7-ae5d-469d-b545-65fe42028d42" />
+
 
 ### 💥 End the game
-![Explosion](<img width="1918" height="943" alt="Screenshot 2026-05-01 165900" src="https://github.com/user-attachments/assets/e8e1dd96-272f-41b2-bc58-9aedaa3212d3" />
-)
+<img width="1918" height="943" alt="Screenshot 2026-05-01 165900" src="https://github.com/user-attachments/assets/dd6d44d9-03df-46f3-9fe1-289a8333194e" />
 
-
+### How to Run the game
 <img width="1847" height="542" alt="Screenshot 2026-05-01 165915" src="https://github.com/user-attachments/assets/7cc9da6a-dc40-4390-bf0b-11ac0ce04d0b" />
 
 ---
