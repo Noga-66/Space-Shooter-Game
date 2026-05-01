@@ -12,18 +12,22 @@ A high-quality **2D Space Shooter Game** built using Python and Pygame with smoo
 ## 🎮 Game Preview
 
 ### 🖼️ Gameplay Screenshot
-<img width="1915" height="941" alt="Screenshot 2026-05-01 165848" src="https://github.com/user-attachments/assets/058abd5c-f275-4787-8604-b0d72efa6770" />
+<img width="1918" height="980" alt="Screenshot 2026-05-01 182813" src="https://github.com/user-attachments/assets/bf6c0efd-ad9e-4a98-bc2a-21a7c3a7ac56" />
 
 
 ### 🌌 Background Scene
-<img width="1908" height="942" alt="Screenshot 2026-05-01 170144" src="https://github.com/user-attachments/assets/033c31e7-ae5d-469d-b545-65fe42028d42" />
+
+<img width="1918" height="946" alt="Screenshot 2026-05-01 182659" src="https://github.com/user-attachments/assets/6664540c-85cc-4d57-84be-c74277774016" />
 
 
 ### 💥 End the game
-<img width="1918" height="943" alt="Screenshot 2026-05-01 165900" src="https://github.com/user-attachments/assets/dd6d44d9-03df-46f3-9fe1-289a8333194e" />
+<img width="1918" height="976" alt="Screenshot 2026-05-01 182747" src="https://github.com/user-attachments/assets/a76b0ef6-76f1-4dc3-8ff7-bf659e974891" />
 
 ### How to Run the game
-<img width="1847" height="542" alt="Screenshot 2026-05-01 165915" src="https://github.com/user-attachments/assets/7cc9da6a-dc40-4390-bf0b-11ac0ce04d0b" />
+<img width="1853" height="568" alt="Screenshot 2026-05-01 182832" src="https://github.com/user-attachments/assets/e8e24c79-7462-4d7a-a310-543f03a012f7" />
+
+
+
 
 ---
 
@@ -33,6 +37,7 @@ A high-quality **2D Space Shooter Game** built using Python and Pygame with smoo
 - 🔫 Shooting system (player & enemy bullets)  
 - 👾 Enemy AI with movement patterns  
 - ☄️ Asteroids with collision physics  
+
 - 💥 Particle explosion system  
 - ❤️ Health bar & lives system  
 - 🏆 Score system  
