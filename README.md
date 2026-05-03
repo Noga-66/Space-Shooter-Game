@@ -9,18 +9,18 @@ A high-quality **2D Space Shooter Game** built using Python and Pygame with smoo
 
 ---
 
-## 🎮 Game Preview
+##  Game Preview
 
-### 🖼️ Gameplay Screenshot
+### Gameplay Screenshot
 <img width="1918" height="980" alt="Screenshot 2026-05-01 182813" src="https://github.com/user-attachments/assets/bf6c0efd-ad9e-4a98-bc2a-21a7c3a7ac56" />
 
 
-### 🌌 Background Scene
+### Background Scene
 
 <img width="1918" height="946" alt="Screenshot 2026-05-01 182659" src="https://github.com/user-attachments/assets/6664540c-85cc-4d57-84be-c74277774016" />
 
 
-### 💥 End the game
+###  End the game
 <img width="1918" height="976" alt="Screenshot 2026-05-01 182747" src="https://github.com/user-attachments/assets/a76b0ef6-76f1-4dc3-8ff7-bf659e974891" />
 
 ### How to Run the game
@@ -31,22 +31,22 @@ A high-quality **2D Space Shooter Game** built using Python and Pygame with smoo
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🚀 Smooth spaceship movement  
-- 🔫 Shooting system (player & enemy bullets)  
-- 👾 Enemy AI with movement patterns  
-- ☄️ Asteroids with collision physics  
+-  Smooth spaceship movement  
+-  Shooting system (player & enemy bullets)  
+-  Enemy AI with movement patterns  
+-  Asteroids with collision physics  
 
-- 💥 Particle explosion system  
-- ❤️ Health bar & lives system  
-- 🏆 Score system  
-- 🎯 Win / Game Over system  
-- 🌌 Animated space background (stars + nebula + planet)  
+-  Particle explosion system  
+-  Health bar & lives system  
+-  Score system  
+-  Win / Game Over system  
+-  Animated space background (stars + nebula + planet)  
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Key | Action |
 |-----|--------|
@@ -58,9 +58,9 @@ A high-quality **2D Space Shooter Game** built using Python and Pygame with smoo
 
 ---
 
-## 📦 Installation
+##  Installation
 
-### 1️⃣ Install dependencies
+### 1️ Install dependencies
 ```bash
 pip install pygame
 ## run game
